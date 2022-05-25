@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Shaiba</string>
+    <string name="txt_students">Шайба</string>
+    <string name="btn_students">Забросить шайбу</string>
+</resources>
